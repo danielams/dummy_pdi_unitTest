@@ -1,0 +1,11 @@
+      <slaveserver>
+        <name>carte</name>
+        <hostname>ec2-46-137-64-75.eu-west-1.compute.amazonaws.com</hostname>
+        <port>80</port>
+        <webAppName>spoon</webAppName>
+        <username>pentaho</username>
+<password>Encrypted 2be98afc86aa7f2e4cb09ab7eca93a7d5</password>        <proxy_hostname/>
+        <proxy_port/>
+        <non_proxy_hosts/>
+        <master>N</master>
+        <sslMode>N</sslMode>      </slaveserver>
